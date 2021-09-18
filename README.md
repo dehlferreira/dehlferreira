@@ -15,7 +15,8 @@
 <br>
 <br>
 
-<p>Welcome to my profile! I'm front-end and mobile developer at labsit.io. Thanks for visiting and I'd love to connect!</p><br>
+<p>Welcome to my profile! I'm front-end and mobile developer at labsit.io.<br>
+Thanks for visiting and I'd love to connect!</p><br>
 
 <p>📌 Living in Santo André, São Paulo, Brazil.</p><br>
 
