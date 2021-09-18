@@ -4,8 +4,6 @@
 <h4>Front-end and mobile developer @labsit.io</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-André%20Luiz%20Ferreira-1ca0f1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-lferreira/)](https://www.linkedin.com/in/andre-lferreira/)
-[![Instagram Badge](https://img.shields.io/badge/-@dehlferreira-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/dehlferreira/)](https://instagram.com/dehlferreira)
-[![Facebook Badge](https://img.shields.io/badge/-andreluiz.ferreira.988-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/andreluiz.ferreira.988/)](https://www.facebook.com/andreluiz.ferreira.988)
 [![Gmail Badge](https://img.shields.io/badge/-deh.lferreira-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:deh.lferreira@gmail.com)](mailto:deh.lferreira@gmail.com)
 
 <br>
